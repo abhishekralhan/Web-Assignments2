@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+.container{
+	height:auto;
+	width:auto;
+	background-width:0px;
+	
+}
+.header{
+	
+	height: 250px;
+	float:top;
+	
+}
+.sidebar{
+	height:500px;
+	width: 200px;
+	float:left;
+	
+}
+.content{
+	height:500px;
+}
+.footer{
+	height:100px;
+	float:bottom;
+	
+}
